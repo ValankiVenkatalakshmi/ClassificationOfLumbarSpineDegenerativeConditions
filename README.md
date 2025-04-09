@@ -14,10 +14,8 @@
               1. Clone the repository:
               
              ```bash
-             
-                >git clone https://github.com/ValankiVenkatalakshmi/ClassificationOfLumbarSpineDegenerativeConditions.git
-                
-                >cd ClassificationOfLumbarSpineDegenerativeConditions
+             >git clone https://github.com/ValankiVenkatalakshmi/ClassificationOfLumbarSpineDegenerativeConditions.git
+             >cd ClassificationOfLumbarSpineDegenerativeConditions
 
 **Usage:**
               Open the ModelCreationAndClassification.ipynb notebook to explore and analyze the severity levels of lumbar spine conditions.
