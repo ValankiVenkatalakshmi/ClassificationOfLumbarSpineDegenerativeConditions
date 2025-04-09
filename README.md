@@ -5,9 +5,9 @@
                patient care.
                
 **Features:**
-              Classification of severity levels for various lumbar spine conditions.
-              Analysis at each intervertebral disc level for targeted insights.
-              Integration of test cases for validating predictive models.
+              -Classification of severity levels for various lumbar spine conditions.
+              -Analysis at each intervertebral disc level for targeted insights.
+              -Integration of test cases for validating predictive models.
               
 **Installation:**
               To set up the project locally, follow these steps:
