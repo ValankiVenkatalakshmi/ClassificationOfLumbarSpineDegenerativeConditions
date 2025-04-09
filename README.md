@@ -11,7 +11,7 @@
               
 **Installation:**
               To set up the project locally, follow these steps:
-	      1. Clone the repository:
+	      Clone the repository:
               
              ```bash
              >git clone https://github.com/ValankiVenkatalakshmi/ClassificationOfLumbarSpineDegenerativeConditions.git
@@ -25,19 +25,19 @@
                       
 **Project Structure:**
               
-	         ├── ModelCreationAndClassification.ipynb      
+	          ├── ModelCreationAndClassification.ipynb      
               ├── Testcases.ipynb          
               ├── requirements.txt         
               ├── README.md      
               
 **Dataset:**
           The dataset used in this project is hosted on Kaggle. You can download it from the link below:
-          [LINK]https://www.kaggle.com/competitions/rsna-2024-lumbar-spine-degenerative-classification/data
+          https://www.kaggle.com/competitions/rsna-2024-lumbar-spine-degenerative-classification/data
           Ensure the dataset is properly formatted as described in the notebooks.
           
 **Results:**
           Severity levels for five conditions at each disc level are quantified to assist in diagnosis and treatment planning.
-          Metrics for model performance are included in the analysis.
+          And metrics for model performance are included in the analysis.
           
 **Contributing:**
           Contributions are welcome! If you have suggestions or find issues:
