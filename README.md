@@ -5,9 +5,9 @@
                patient care.
                
 **Features:**
-              -Classification of severity levels for various lumbar spine conditions.
-              -Analysis at each intervertebral disc level for targeted insights.
-              -Integration of test cases for validating predictive models.
+              *Classification of severity levels for various lumbar spine conditions.
+              *Analysis at each intervertebral disc level for targeted insights.
+              *Integration of test cases for validating predictive models.
               
 **Installation:**
               To set up the project locally, follow these steps:
@@ -32,7 +32,7 @@
               
 **Dataset:**
           The dataset used in this project is hosted on Kaggle. You can download it from the link below:
-          https://www.kaggle.com/competitions/rsna-2024-lumbar-spine-degenerative-classification/data
+          https://www.kaggle.com/competitions/rsna-2024-lumbar-spine-degenerative-classification/data..
           Ensure the dataset is properly formatted as described in the notebooks.
           
 **Results:**
