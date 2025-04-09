@@ -1,20 +1,22 @@
-**Overview**:
+**Overview:**
                This project aims to develop a Deep Learning model to automatically assess severity levels (Normal, Mild, Moderate, Severe) across five lumbar disc levels (L1/L2 to L5/S1) for 
                five lumbar spine degenerative conditions from MRI images, including Neural Foraminal Narrowing, Subarticular Stenosis, and Spinal Canal Stenosis. The goal is to address the 
                complexity and variability of manual MRI interpretation.By providing consistent, rapid, and reliable diagnostic support, the model seeks to improve early detection and enhance 
                patient care.
-\n**Features**:
+               
+**Features:**
               Classification of severity levels for various lumbar spine conditions.
               Analysis at each intervertebral disc level for targeted insights.
               Integration of test cases for validating predictive models.
-**Installation**:
+              
+**Installation:**
               To set up the project locally, follow these steps:
               1. Clone the repository:
              ```bash
                 >git clone https://github.com/ValankiVenkatalakshmi/ClassificationOfLumbarSpineDegenerativeConditions.git
                 >cd ClassificationOfLumbarSpineDegenerativeConditions
 
-**Usage**
+**Usage:**
               Open the ModelCreationAndClassification.ipynb notebook to explore and analyze the severity levels of lumbar spine conditions.
               Use the Testcases.ipynb notebook to validate the predictions and ensure model reliability.
               Install dependencies using:
