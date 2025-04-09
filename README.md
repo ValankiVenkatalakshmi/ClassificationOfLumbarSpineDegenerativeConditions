@@ -3,7 +3,7 @@
                five lumbar spine degenerative conditions from MRI images, including Neural Foraminal Narrowing, Subarticular Stenosis, and Spinal Canal Stenosis. The goal is to address the 
                complexity and variability of manual MRI interpretation.By providing consistent, rapid, and reliable diagnostic support, the model seeks to improve early detection and enhance 
                patient care.
-**Features**:
+\n**Features**:
               Classification of severity levels for various lumbar spine conditions.
               Analysis at each intervertebral disc level for targeted insights.
               Integration of test cases for validating predictive models.
