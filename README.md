@@ -25,7 +25,7 @@
                       
 **Project Structure:**
               
-	      ├── ModelCreationAndClassification.ipynb      
+	         ├── ModelCreationAndClassification.ipynb      
               ├── Testcases.ipynb          
               ├── requirements.txt         
               ├── README.md      
